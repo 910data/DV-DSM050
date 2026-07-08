@@ -1,2 +1,2 @@
 # DV-DSM050
-Code and dataset
+Includes code (.ipynb) and dataset
